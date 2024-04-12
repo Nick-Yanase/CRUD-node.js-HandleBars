@@ -12,7 +12,3 @@ instalar o drive do banco de dados, o --save serve para instalar neste arquivo p
 instalar sequelize-handlebars integrar o Handlebars com o Express.
 ### npom install sequelize-handlebars --save
 
-Passo a passo
-# 1- Criar o banco.js
-# 2- criar o post.js
-# 3- criar o app.js
